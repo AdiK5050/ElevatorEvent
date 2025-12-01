@@ -18,4 +18,5 @@ additional_files:
   - name: README.md
   - name: build.gradle
   - name: settings.gradle
+  - name: gradle/wrapper/gradle-wrapper.properties
 yaml_version: 5
